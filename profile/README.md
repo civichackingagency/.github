@@ -2,4 +2,4 @@
 
 Bringing youth technologists together to design, code and learn a new way to experience civics.
 
-[Learn more.](https://civichackingagency.github.io/)
+[Visit our website.](https://civichackingagency.github.io/)
